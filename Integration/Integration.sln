@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integration", "Integration\Integration.csproj", "{2DC53468-C09C-492C-BDF5-11134F1DF4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{897ED9F6-2A3E-4AC7-AA35-D5FEF1914C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC53468-C09C-492C-BDF5-11134F1DF4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC53468-C09C-492C-BDF5-11134F1DF4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC53468-C09C-492C-BDF5-11134F1DF4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC53468-C09C-492C-BDF5-11134F1DF4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897ED9F6-2A3E-4AC7-AA35-D5FEF1914C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897ED9F6-2A3E-4AC7-AA35-D5FEF1914C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897ED9F6-2A3E-4AC7-AA35-D5FEF1914C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897ED9F6-2A3E-4AC7-AA35-D5FEF1914C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C45F639A-1A91-4B43-B7FF-F6B5A7565913}
+	EndGlobalSection
+EndGlobal
